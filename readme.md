@@ -1,4 +1,4 @@
-**Read this in other languages: [English](README.md), [中文](README_zh.md).**
+**Read this in other languages: [English](readme.md), [中文](README_zh.md).**
 <p align="center">
   <img src="/images/wled_logo_akemi.png">
   <a href="https://github.com/Aircoookie/WLED/releases"><img src="https://img.shields.io/github/release/Aircoookie/WLED.svg?style=flat-square"></a>
